@@ -18,4 +18,21 @@ Schematic            |  PCB         |
 
 ### CAD Model
 
-![image](schematic.png)
+![image](cadmodel.png)
+
+This was made in Shapr3D. 
+
+### Firmware
+
+The firmware was made in VS Code using KMK. 
+
+### BOM
+
+- 1 XIAO RP2040
+- 4 Blank DSA Keycaps
+- 4 Cherry MX Switches
+
+1 LS1 speaker (provided by me)
+
+
+
